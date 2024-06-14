@@ -8,7 +8,7 @@
 <div align="left" width="50%">
 <h3 align="center">A passionate Full-Stack developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazoyev&label=Profile%20views&color=0e75b6&style=flat" alt="murtazoyev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davronovuz&label=Profile%20views&color=0e75b6&style=flat" alt="murtazoyev" /> </p>
 
 - 🔭 I’m currently working on **IT TAT**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Full-Stack Developer (Front => ReactJs) (Back =>Python | Django)**
 
-- 📫 How to reach me **davronovtatu@gmail.com**
+- 📫 How to reach me **davronovuz@gmail.com**
 </div><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,22 +45,22 @@
 
   <!-- ./STAT -->
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=davronovtatu&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Davronov github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronovtatu&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=davronovuz&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Davronov github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronovuz&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
 </div>
 
 </div>
 
 
 
-  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=davronovtatu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Murtazoyev Dilshod" /></div>
+  <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=davronovuz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Murtazoyev Dilshod" /></div>
 
 
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davronovtatu}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{davronovuz}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FADD92&height=120&section=footer"/>
