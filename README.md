@@ -46,7 +46,7 @@
   <!-- ./STAT -->
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=davronovtatu&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1116" alt="Davronov github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronov&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davronovtatu&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1116" />
 </div>
 
 </div>
